@@ -15,7 +15,6 @@ images/
 opencv/
 convnet/
 decaf/
-data/
 submission/
 build/darknet/*
 build_*/
